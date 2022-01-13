@@ -1,0 +1,9 @@
+/*
+!.gitignore
+!storage_sr
+storage_sr/*
+!storage_sr/vendor
+!/public_html
+!/public_html/
+!/public_html/*
+
